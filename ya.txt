@@ -1,0 +1,3 @@
+dim ya as dyrak
+ya=f(q)
+print(ya)
